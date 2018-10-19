@@ -1,2 +1,2 @@
 # HeartDiseasePrediction
-When a person enters his report(engiography) in the system the disease is predicted.
+When a person enters his report(angiography) in the system the disease is predicted.
